@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0078-subsets/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
