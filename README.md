@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sadiqua-Parween/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
